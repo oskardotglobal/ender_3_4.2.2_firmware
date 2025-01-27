@@ -12,7 +12,7 @@ module.exports = {
             ["DEFAULT_LEVELING_FADE_HEIGHT", 20],
             ["NOZZLE_TO_PROBE_OFFSET", [0, 0, 0]],
 
-            //M48 test
+            // M48 test
             "Z_MIN_PROBE_REPEATABILITY_TEST"
         ],
         disable: [
@@ -25,7 +25,7 @@ module.exports = {
             "BABYSTEP_ZPROBE_OFFSET",
             "PROBE_OFFSET_WIZARD",
 
-            //symmetrical
+            // symmetrical
             ["PROBING_MARGIN_LEFT", 45],
             ["PROBING_MARGIN_RIGHT", 45],
             ["PROBING_MARGIN_FRONT", 15],
