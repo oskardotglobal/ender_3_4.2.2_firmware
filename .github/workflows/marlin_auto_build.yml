@@ -2,6 +2,7 @@ name: marlin_auto_build
 
 permissions:
   contents: write
+  actions: write
 
 on:
   workflow_dispatch:
